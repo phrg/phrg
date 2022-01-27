@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phrg
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning code 
+- 🌱 I’m currently learning html and css 
 - 💞️ I’m looking to collaborate on learning 
 - 📫 How to reach me i have 0 idea
 
